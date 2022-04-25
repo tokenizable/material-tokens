@@ -1,0 +1,23 @@
+{
+  "name": "@xxxx/tokens",
+  "version": "1.0.5",
+  "description": "Design Tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tokenizable/material-tokens.git"
+  },
+  "keywords": [
+    "Design",
+    "Tokens"
+  ],
+  "author": "Tokenizable",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tokenizable/material-tokens/issues"
+  },
+  "homepage": "https://github.com/tokenizable/material-tokens#readme"
+}
